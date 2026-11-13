@@ -13,3 +13,8 @@ Ibrahima Fall, Mahamat Hamit Amir.
 
 ## Licence
 Contenu redactionnel — tous droits reserves.
+
+## Captures
+Voir le dossier `captures/`.
+
+![capture](captures/)
