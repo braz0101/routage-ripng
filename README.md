@@ -17,4 +17,4 @@ Contenu redactionnel — tous droits reserves.
 ## Captures
 Voir le dossier `captures/`.
 
-![capture](captures/)
+![capture](captures/1.png)
